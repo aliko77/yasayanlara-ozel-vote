@@ -6,8 +6,8 @@ sm_ycancelvote // Aktif bir oylama mevcut ise VOTE yetkisi olan oyuncular oylama
 
 sm_yrevote  // Aktif bir oylama varken oyunuzu değiştirmeye yarayan komut. Tüm oyuncular tarafından kullanılabilir.
 
-  name = "Yaşayan Oyunculara Özel Oylama.",
-	author = ali<.d,
-	description = "Yaşayan oyunculara özel oylama yapmak.",
-	version = PLUGIN_VERSION,
-	url = "https://steamcommunity.com/id/alikoc77"
+name = "Yaşayan Oyunculara Özel Oylama.",
+author = ali<.d,
+description = "Yaşayan oyunculara özel oylama yapmak.",
+version = PLUGIN_VERSION,
+url = "https://steamcommunity.com/id/alikoc77"
